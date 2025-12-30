@@ -40,7 +40,7 @@ Authentication is mocked locally to focus on state management, validation logic,
 ---
 
 ## Project Structure
-
+```bash
 src/
 ├── context/
 │ └── AuthContext.tsx
@@ -58,11 +58,13 @@ src/
 │ └── validators.ts
 └── App.tsx
 
+```
+
 ## Project Requirement
 
--- Java 17 
--- Node 20.19.5 and above
--- Xcode 16.1 and above
+- Java 17 
+- Node 20.19.5 and above
+- Xcode 16.1 and above
 
 ## How To Run 
 
